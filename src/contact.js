@@ -56,6 +56,8 @@ const contact = ((id) => {
 
     const hoursBox = document.createElement('div');
     hoursBox.id = "restaurant-hours";
+    // Hours of operation section head
+    hoursBox.innerHTML = `<h4 style="color:${goldText}">VISIT US:</h4>`;
 
     contactTab.appendChild(hoursBox);
 

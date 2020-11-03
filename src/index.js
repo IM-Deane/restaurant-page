@@ -41,6 +41,7 @@ document.getElementById("main").appendChild(menuLabel);
 // Create menu tab body
 menu("main").populateMenu();
 
+
 /**** CONTACT TAB ****/
 const contactHeader = document.createElement('INPUT');
 contactHeader.id = "contactTab";

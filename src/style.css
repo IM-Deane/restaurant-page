@@ -62,15 +62,20 @@
 }
 
 
-/*****Page Content styling *****/
+/***** Page Content styling *****/
 
 body {
   background-color: whitesmoke;
 }
 
+
+
 /* Styling for About tab body */
 #content {
   background-color: #1d2945;
+}
+#main {
+  padding-top: 5px;
 }
 
 /* Styling for menu tab body */
